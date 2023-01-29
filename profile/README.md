@@ -6,12 +6,12 @@
 ## What are we?
 Cross Crusaders is an organization that is run by Independent Fundamental Baptists. The leader of the organization is Shawn Henly, and there is a Board of Directors that helps to govern and oversee the organization's operations. The Board of Directors is made up of two pastors who work together to make important decisions and guide the organization towards its mission and goals.
 
-<hr>
+##
 
 ## What is our mission?
 Cross Crusaders is aims to strengthen Independent Fundamental Baptists by promoting their beliefs and practices. Their main purpose is to bring lost people to Christ and to help compromised Christians return to the true way of worshipping God. This is accomplished through various evangelism efforts, such as door-to-door evangelism, street preaching, and hosting events and conferences. The organization also provides resources, such as tracts and Bibles, to assist members in sharing their faith with others. The ultimate goal of Cross Crusaders is to spread the gospel and build up the body of Christ.
 
-<hr>
+##
 
 ## What we believe:
 **The KJV is the One and Only Word of God:** <br>
