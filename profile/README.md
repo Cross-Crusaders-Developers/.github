@@ -1,7 +1,6 @@
-<img src="./assets/banner.png" width="100%"/>
+<img src="https://github.com/Cross-Crusaders-Developers/.github/blob/main/profile/assets/banner.png?raw=true" width="100%"/>
 <div align="center">
   <h2>Charging Forward with God's Word</h2>
-  <hr>
 </div>
 
 ## What are we?
