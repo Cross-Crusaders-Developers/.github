@@ -1,15 +1,8 @@
 <img src="./assets/banner.png" width="100%"/>
 <div align="center">
-  <span>Cross Crusaders</span>
-  <h3>Charging Forward with God's Word</h3>
+  <h2>Charging Forward with God's Word</h2>
   <hr>
 </div>
-<style>
-span {
-  font-size: 50px;
-  margin-block-end: 0;
-}
-</style>
 
 ## What are we?
 Cross Crusaders is an organization that is run by Independent Fundamental Baptists. The leader of the organization is Shawn Henly, and there is a Board of Directors that helps to govern and oversee the organization's operations. The Board of Directors is made up of two pastors who work together to make important decisions and guide the organization towards its mission and goals.
