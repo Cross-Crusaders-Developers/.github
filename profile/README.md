@@ -1,5 +1,32 @@
 <img src="https://github.com/Cross-Crusaders-Developers/.github/blob/main/profile/assets/banner.png?raw=true" width="100%"/>
 
+<div id="badges" align="center">
+    <a href="https://youtube.com/@CrossCrusaders">
+        <img src="./assets/icons/youtube/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="./assets/icons/youtube/black.svg#gh-light-mode-only" height="35"/>
+    </a>
+    <a href="https://discord.gg/3BdrYPtE38">
+        <img src="./assets/icons/discord/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="./assets/icons/discord/black.svg#gh-light-mode-only" height="35"/>
+    </a>
+    <a href="https://crosscrusaders.com">
+        <img src="./assets/icons/website/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="./assets/icons/website/black.svg#gh-light-mode-only" height="35"/>
+    </a>
+    <a href="https://twitter.com/ItsShawnH">
+        <img src="./assets/icons/twitter/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="./assets/icons/twitter/black.svg#gh-light-mode-only" height="35"/>
+    </a>
+    <a href="https://www.instagram.com/realcrosscrusaders">
+        <img src="./assets/icons/instagram/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="./assets/icons/instagram/black.svg#gh-light-mode-only" height="35"/>
+    </a>
+    <a href="https://facebook.com/shawn.henly707">
+        <img src="./assets/icons/facebook/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="./assets/icons/facebook/black.svg#gh-light-mode-only" height="35"/>
+    </a>
+</div>
+
 ## What are we?
 Cross Crusaders is an organization that is run by Independent Fundamental Baptists. The leader of the organization is Shawn Henly, and there is a Board of Directors that helps to govern and oversee the organization's operations. The Board of Directors is made up of two pastors who work together to make important decisions and guide the organization towards its mission and goals.
 
