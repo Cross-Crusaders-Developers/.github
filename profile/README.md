@@ -2,28 +2,28 @@
 
 <div id="badges" align="center">
     <a href="https://youtube.com/@CrossCrusaders">
-        <img src="./assets/icons/youtube/white.svg#gh-dark-mode-only" height="35"/>
-        <img src="./assets/icons/youtube/black.svg#gh-light-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/youtube/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/youtube/black.svg#gh-light-mode-only" height="35"/>
     </a>
     <a href="https://discord.gg/3BdrYPtE38">
-        <img src="./assets/icons/discord/white.svg#gh-dark-mode-only" height="35"/>
-        <img src="./assets/icons/discord/black.svg#gh-light-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/discord/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/discord/black.svg#gh-light-mode-only" height="35"/>
     </a>
     <a href="https://crosscrusaders.com">
-        <img src="./assets/icons/website/white.svg#gh-dark-mode-only" height="35"/>
-        <img src="./assets/icons/website/black.svg#gh-light-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/website/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/website/black.svg#gh-light-mode-only" height="35"/>
     </a>
     <a href="https://twitter.com/ItsShawnH">
-        <img src="./assets/icons/twitter/white.svg#gh-dark-mode-only" height="35"/>
-        <img src="./assets/icons/twitter/black.svg#gh-light-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/twitter/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/twitter/black.svg#gh-light-mode-only" height="35"/>
     </a>
     <a href="https://www.instagram.com/realcrosscrusaders">
-        <img src="./assets/icons/instagram/white.svg#gh-dark-mode-only" height="35"/>
-        <img src="./assets/icons/instagram/black.svg#gh-light-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/instagram/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/instagram/black.svg#gh-light-mode-only" height="35"/>
     </a>
     <a href="https://facebook.com/shawn.henly707">
-        <img src="./assets/icons/facebook/white.svg#gh-dark-mode-only" height="35"/>
-        <img src="./assets/icons/facebook/black.svg#gh-light-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/facebook/white.svg#gh-dark-mode-only" height="35"/>
+        <img src="https://raw.githubusercontent.com/CrossCrusaders/.github/4cc62ab64129c779e1ba30fc84fb3ae3d7dab0c5/profile/assets/icons/facebook/black.svg#gh-light-mode-only" height="35"/>
     </a>
 </div>
 
