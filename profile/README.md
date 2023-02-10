@@ -51,7 +51,7 @@ Cross Crusaders is an organization that is run by Independent Fundamental Baptis
 ##
 
 ## What is our mission?
-Cross Crusaders aims to strengthen Independent Fundamental Baptists by promoting their beliefs and practices. Their main purpose is to bring lost people to Christ and to help compromised Christians return to the true way of worshipping God. This is accomplished through various evangelism efforts, such as door-to-door evangelism, street preaching, and hosting events and conferences. The organization also provides resources, such as tracts and Bibles, to assist members in sharing their faith with others. The ultimate goal of Cross Crusaders is to spread the gospel and build up the body of Christ.
+Cross Crusaders aims to strengthen Independent Fundamental Baptists by promoting their beliefs and practices. Their main purpose is to bring lost people to Christ and to help compromised Christians return to the true way of worshipping God. The organization also provides resources, such as tracts and Bibles, to assist members in sharing their faith with others. The ultimate goal of Cross Crusaders is to spread the gospel and build up the body of Christ.
 
 ##
 
