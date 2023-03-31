@@ -56,30 +56,30 @@ Cross Crusaders aims to strengthen Independent Fundamental Baptists by promoting
 ##
 
 ## What we believe:
-**The KJV is the One and Only Word of God:** <br>
-Psalms 12:6 KJV <br>
+**The King James Bible is the One and Only Word of God:** <br>
+Psalms 12:6 KJB <br>
 "The words of the Lord are pure words: as silver tried in a furnace of earth, purified seven times."
 
 <br>
 
 **Hell is Real and Hell is Hot:** <br>
-Revelation 21:8 KJV <br>
+Revelation 21:8 KJB <br>
 "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death."
 
 <br>
 
 **Eternal Security:** <br>
-John 10:28 KJV <br>
+John 10:28 KJB <br>
 "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."
 
 <br>
 
 **The Trinity is Real:** <br>
-1 John 5:7 KJV <br>
+1 John 5:7 KJB <br>
 "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one."
 
 <br>
 
 **Salvation is Through the Blood of Jesus Alone:** <br>
-Hebrews 9:12 KJV <br>
+Hebrews 9:12 KJB <br>
 "Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us."
